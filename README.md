@@ -6,13 +6,13 @@ Final Dashboard:
 ![image](https://github.com/sang773/Revenue-Insights-in-Hospitality-Domain/blob/main/Final_Dashboard.png)
 
 Tootlip for Revenue:
-![image]()
+![image](https://github.com/sang773/Revenue-Insights-in-Hospitality-Domain/blob/main/Tooltip_for_Revenue.png)
 
 Toootlip for RevPAR
-![image]()
+![image](https://github.com/sang773/Revenue-Insights-in-Hospitality-Domain/blob/main/Tooltip_for_RevPAR.png)
 
 Tootlip for Realisation%
-![image]()
+![image](https://github.com/sang773/Revenue-Insights-in-Hospitality-Domain/blob/main/Tooltip_for_Realisation%25.png)
 
 Tootlip for RevPAR
-![image]()
+![image](https://github.com/sang773/Revenue-Insights-in-Hospitality-Domain/blob/main/Tooltip_for_RevPAR.png)
